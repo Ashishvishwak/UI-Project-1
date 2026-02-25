@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lustria&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Lustria&display=swap');
+
+@import "tailwindcss";
+
+* {
+  font-family: "Inter Tight", sans-serif;
+}
+
+@theme {
+  --color-pri: #292929;
+  --color-sec: #F8F8F8;
+  --bg-pri:#121212;
+  --bg-sec: #F8F8F8;
+  --font-Lustria: "Lustria", serif;
+  --font-Inter: "Inter Tight", sans-serif;
+
+
+
+}
